@@ -1,7 +1,7 @@
 # XORString
 Easy to include string and wstring obfuscation
 
-# Usage Example
+# Usage
 ```cpp
 LONG main( 
   VOID 
